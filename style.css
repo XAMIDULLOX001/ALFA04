@@ -1,0 +1,224 @@
+.box {
+  display: flex;
+  width: 200px;
+  height: 100px;
+  align-items: start;
+  justify-content: start;
+  border: 5px solid red;
+  border-radius: 30px;
+  margin: 10px;
+}
+body {
+  background-color: black;
+}
+.box div {
+  width: 50px;
+  height: 25px;
+  border: 1px solid red;
+  color: blue;
+  background-color: blue;
+  margin: 10px;
+}
+.ikki {
+  display: flex;
+  width: 200px;
+  height: 100px;
+  flex-direction: column;
+  border: 5px solid red;
+  border-radius: 30px;
+  margin: 10px;
+}
+.ikki div {
+  width: 50px;
+  height: 25px;
+  border: 1px solid red;
+  color: blue;
+  background-color: blue;
+  margin: 10px;
+}
+.uch {
+  display: flex;
+  flex-wrap: wrap;
+  width: 300px;
+  height: 100px;
+  align-items: start;
+  justify-content: start;
+  border: 5px solid red;
+  border-radius: 30px;
+  margin: 10px;
+}
+.uch div {
+  width: 75px;
+  height: 25px;
+  border: 1px solid red;
+  color: blue;
+  background-color: blue;
+  margin: 10px;
+}
+.tort {
+  display: flex;
+  width: 200px;
+  height: 100px;
+  align-items: start;
+  justify-content: space-between;
+  border: 5px solid red;
+  border-radius: 30px;
+  margin: 10px;
+}
+.tort div {
+  width: 50px;
+  height: 25px;
+  border: 1px solid red;
+  color: blue;
+  background-color: blue;
+  margin: 10px;
+}
+.besh {
+  display: flex;
+  width: 200px;
+  height: 100px;
+  align-items: start;
+  justify-content: start;
+  border: 5px solid red;
+  border-radius: 30px;
+  margin: 10px;
+}
+.besh div {
+  width: 50px;
+  height: 25px;
+  border: 1px solid red;
+  color: blue;
+  background-color: blue;
+  margin: 10px;
+}
+.olti {
+  display: flex;
+  width: 200px;
+  height: 100px;
+  align-items: start;
+  justify-content: end;
+  border: 5px solid red;
+  border-radius: 30px;
+  margin: 10px;
+}
+.olti div {
+  width: 50px;
+  height: 25px;
+  border: 1px solid red;
+  color: blue;
+  background-color: blue;
+  margin: 10px;
+}
+.yetti {
+  display: flex;
+  width: 200px;
+  height: 100px;
+  align-items: start;
+  justify-content: space-around;
+  border: 5px solid red;
+  border-radius: 30px;
+  margin: 10px;
+}
+.yetti div {
+  width: 50px;
+  height: 25px;
+  border: 1px solid red;
+  color: blue;
+  background-color: blue;
+  margin: 10px;
+}
+.sakkiz {
+  display: flex;
+  width: 200px;
+  height: 100px;
+  align-items: start;
+  justify-content: space-between;
+  border: 5px solid red;
+  border-radius: 30px;
+  margin: 10px;
+}
+.sakkiz div {
+  width: 50px;
+  height: 25px;
+  border: 1px solid red;
+  color: blue;
+  background-color: blue;
+  margin: 10px;
+}
+.toqqiz {
+  display: flex;
+  width: 200px;
+  height: 100px;
+  align-items: start;
+  justify-content: start;
+  border: 5px solid red;
+  border-radius: 30px;
+  margin: 10px;
+}
+.toqqiz div {
+  width: 50px;
+  height: 25px;
+  border: 1px solid red;
+  color: blue;
+  background-color: blue;
+  margin: 10px;
+}
+.on {
+  display: flex;
+  width: 200px;
+  height: 100px;
+  align-items: end;
+  justify-content: start;
+  border: 5px solid red;
+  border-radius: 30px;
+  margin: 10px;
+}
+.on div {
+  width: 50px;
+  height: 25px;
+  border: 1px solid red;
+  color: blue;
+  background-color: blue;
+  margin: 10px;
+}
+.onbr {
+  display: flex;
+  width: 200px;
+  height: 100px;
+  align-items: center;
+  justify-content: start;
+  border: 5px solid red;
+  border-radius: 30px;
+  margin: 10px;
+}
+.onbr div {
+  width: 50px;
+  height: 25px;
+  border: 1px solid red;
+  color: blue;
+  background-color: blue;
+  margin: 10px;
+}
+.onikki {
+  display: flex;
+  width: 200px;
+  height: 100px;
+  align-items: start;
+  justify-content: space-between;
+  border: 5px solid red;
+  border-radius: 30px;
+  margin: 10px;
+}
+.onikki div {
+  width: 50px;
+  height: 25px;
+  border: 1px solid red;
+  color: blue;
+  background-color: blue;
+  margin: 10px;
+}
+.opshi {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1050px;
+}
